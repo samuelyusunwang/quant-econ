@@ -1,6 +1,5 @@
 # Use Pandas DataReader to removely access data
 
-import pandas as pd
 import matplotlib.pyplot as plt
 import pandas.io.data as web
 
@@ -16,7 +15,7 @@ ticker_list = {'INTC': 'Intel',
                'BA': 'Boeing',
                'QCOM': 'Qualcomm',
                'KO': 'Coca-Cola',
-               'GOOG': 'Google',
+               'GOOGL': 'Google',
                'SNE': 'Sony',
                'PTR': 'PetroChina'}
 
